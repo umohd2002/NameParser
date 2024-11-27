@@ -1,0 +1,9 @@
+{
+    "KB_Mapping.txt": {
+        "result": "Detailed_Report of KB_Mapping.txt is Generated! \n\nThe KB_Mapping_Output.zip is downloaded, please check your download's directory. \n\n\nTotal Number of Names: -\t219\nUnique Pattern Count: -\t205\n\n\nNumber of Pattern Parsed Names: -\t217\nPercentage of Patterns Parsed Result:  -\t99.09%\n\nNumber of Exceptions Thrown: -\t\t2\nPercentage of RuleBased Parsed Result: -\t0.91%\n\n Unique Exception Patterns sent to MapCreationForm: 1",
+        "metrics": {
+            "metrics": "Detailed_Report of KB_Mapping.txt is Generated! \n\nThe KB_Mapping_Output.zip is downloaded, please check your download's directory. \n\n\nTotal Number of Names: -\t219\nUnique Pattern Count: -\t205\n\n\nNumber of Pattern Parsed Names: -\t217\nPercentage of Patterns Parsed Result:  -\t99.09%\n\nNumber of Exceptions Thrown: -\t\t2\nPercentage of RuleBased Parsed Result: -\t0.91%\n\n Unique Exception Patterns sent to MapCreationForm: 1"
+        },
+        "output_file_path": "Output/Batch File Output/KB_Mapping_output.zip"
+    }
+}
